@@ -301,8 +301,5 @@ export default function HealthcareDashboard() {
         </div>
       </div>
     </div>
-
-
-
   );
 }
